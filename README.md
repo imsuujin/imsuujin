@@ -24,11 +24,4 @@
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
             </div>
     </div>
-## 📈 GitHub Stats
 
-![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
-
-## 📫 How to reach me:
-
-- LinkedIn: [Jane Doe](https://www.linkedin.com/in/janedoe/)
-- Portfolio: [janedoe.dev](https://www.janedoe.dev/)
