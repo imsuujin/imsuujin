@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sujin!
 
-I'm a passionate web developer who loves building dynamic and engaging websites and applications. I'm constantly learning new technologies and improving my skills.
+
 
 ## 💻 Skills
 
